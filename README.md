@@ -8,3 +8,6 @@ small projects using HTML,CSS and Javascript
 |  3  | MouseEvent   | |
 |  4  | Month Calender   | |
 |  5  | Testimonial Slider | |
+|  6  | Navbar  | |
+|  7  | Sidebar  | |
+|  8  | Background Video  | |
