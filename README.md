@@ -11,3 +11,5 @@ small projects using HTML,CSS and Javascript
 |  6  | Navbar  | |
 |  7  | Sidebar  | |
 |  8  | Background Video  | |
+|  9  | FAQs Section  | |
+
