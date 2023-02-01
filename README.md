@@ -12,4 +12,6 @@ small projects using HTML,CSS and Javascript
 |  7  | Sidebar  | |
 |  8  | Background Video  | |
 |  9  | FAQs Section  | |
+|  10  | Counter  | |
+
 
