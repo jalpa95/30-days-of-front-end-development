@@ -13,5 +13,6 @@ small projects using HTML,CSS and Javascript
 |  8  | Background Video  | |
 |  9  | FAQs Section  | |
 |  10  | Counter  | |
+|  11  | Rotating Image Gallery  | |
 
 
