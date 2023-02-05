@@ -2,9 +2,9 @@
 small projects using HTML,CSS and Javascript
 
 |Days | Project Name  | Description |
-|:----|:--------------:|-------------:|
-|  1  | Clock  | Shows the real time from the system. |
- | 2  | Calculator  |  Which does calculation using basic Arithmetic operators with the numbers from 0 to 9. |
+|----|--------------|-------------|
+|  1  | Clock  |Shows the real time from the system. |
+ | 2  | Calculator  | Which does calculation using basic Arithmetic operators with the numbers from 0 to 9. |
 |  3  | MouseEvent  | Which shows the exact location of mouse pointer on the screen.|
 |  4  | Month Calender | Shows the Current month's calender with Weekdays and Dates  |
 |  5  | Testimonial Slider | It is a plugin that allows users to display testimonials from customers on their website. |
