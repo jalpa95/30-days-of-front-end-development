@@ -15,5 +15,6 @@ small projects using HTML,CSS and Javascript
 |  10  | Counter  | A device used for counting. |
 |  11  | Rotating Image Gallery   | It helps to group the images in a 3D effect and user-friendly view in the web page.|
 |  12  | Temperature converter | The process of transforming values measured in one unit to values in another units.(Celsius,Fahrenheit and Kelvin). |
+|  13  | BMI Calculator | It is the Calculator which gives the Body Mass Index calculated from height (cms) and weight (kgs). |
 
 
