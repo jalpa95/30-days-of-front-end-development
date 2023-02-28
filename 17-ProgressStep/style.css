@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+
+:root {
+    --line-border-fill: #06b529;
+    --line-border-empty: #e0e0e0;
+    --body-background-color: #a2a4a1;
+    --circle-color: #4a4b4d;
+    --btn-background-color: rgba(201, 202, 201, 0.9);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--body-background-color);
+    overflow: hidden;
+}
+
+.container{
+    text-align: center;
+}
+
+.progress-container{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-bottom: 30px;
+    width: 350px;
+    max-width: 100%;
+}
+
+.progress-container::before {
+    content: '';
+    background-color: var(--line-border-empty);
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 8px;
+    width: 100%;
+    transition: 0.4s ease;
+    transform: translateY(-50%);
+    z-index: -1;
+}
+
+.progress {
+    background-color: var(--line-border-fill);
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 6px;
+    width: 0%;
+    transition: 0.4s ease;
+    transform: translateY(-50%);
+    z-index: -1;
+}
+
+.circle{
+    background-color: var(--line-border-empty);
+    color: var(--circle-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 3px solid var(--line-border-empty);
+    font-size: 1.8rem;
+    transition: 0.4s ease;
+}
+
+.circle.active{
+    border-color: var(--line-border-fill);
+    color: var(--line-border-fill);
+}
+
+.btn{
+    background-color: var(--line-border-fill);
+    color: var(--line-border-empty);
+    border: 0;
+    border-radius: 8px;
+    padding: 8px 30px;
+    margin: 5px;
+    transition: transform 0.3s ease-in-out;
+    font-family: inherit;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.btn:active {
+    transform: scale(0.9);
+}
+
+.btn:focus {
+    outline: 0;
+}
+
+.btn:disabled {
+    background-color: var(--line-border-empty);
+    cursor: not-allowed;
+    color: var(--line-border-fill);
+}
