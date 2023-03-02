@@ -20,5 +20,4 @@ small projects using HTML,CSS and Javascript
 |  15  | Loan Calculator | It is the calculator which accepts the Loan amount, Interest rate and total number of months of loan which calculates Amount needs to be paid in a month. |
 |  16  | Weight Converter | It is the converter which converts the Weight from pounds into Kilograms.  |
 |  17  | Progress Step | We use JavaScript to change the class of the active element and CSS to apply a different style to active elements. We also set the width of the progress bar in JavaScript. |
-
-
+|  18  | To Do List | A To-Do List with which one can add,delete or marked item in a list.  |
