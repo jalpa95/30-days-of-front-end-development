@@ -9,7 +9,7 @@ small projects using HTML,CSS and Javascript
 |  4  | [Month_Calender](https://jalpa95.github.io/30-days-of-front-end-development/4-MonthCalender/)  | Shows the Current month's calender with Weekdays and Dates  |
 |  5  | [Testimonial_Slider](https://jalpa95.github.io/30-days-of-front-end-development/5-TestimonialSlider/) | It is a plugin that allows users to display testimonials from customers on their website. |
 |  6  | [Navbar](https://jalpa95.github.io/30-days-of-front-end-development/6-Navbar/) |A bar, usually at the top of a web page, offering a number of links to help the user to navigate. |
-|  7  | [Sidebar](https://jalpa95.github.io/30-days-of-front-end-development/7-SidebarMenu/) |A narrow vertical area that is located alongside the main display area, typically containing related information or navigation options. |
+|  7  | [Sidebar](https://jalpa95.github.io/30-days-of-front-end-development/7-SideBarMenu/) |A narrow vertical area that is located alongside the main display area, typically containing related information or navigation options. |
 |  8  | [Background_Video](https://jalpa95.github.io/30-days-of-front-end-development/8-BackgroundVideo/) | Background videos are short,looping snippets of video which play on webpages(often on the homepage) and add a cinematic view.|
 |  9  | [FAQs_Section](https://jalpa95.github.io/30-days-of-front-end-development/9-Q&A_Section/) | A list of questions and answers about a particular subject, especially one giving basic information for users of a website. |
 |  10  | [Counter](https://jalpa95.github.io/30-days-of-front-end-development/10-Counter/)  | A device used for counting. |
