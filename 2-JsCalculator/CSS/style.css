@@ -1,4 +1,4 @@
-*{
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -22,7 +22,7 @@ body{
 }
 
 form input {
-    height: 120px;
+    height: 150px;
     width: 100%;
     border: none;
     border-radius: 12px;
@@ -71,4 +71,4 @@ button {
 
 .btn-clear {
     background: #c71212;
-}
+} 

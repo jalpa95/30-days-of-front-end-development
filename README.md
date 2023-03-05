@@ -3,8 +3,8 @@ small projects using HTML,CSS and Javascript
 
 |Days | Project Name  | Description |
 |----|--------------|-------------|
-|  1  | Clock  |Shows the real time from the system. |
- | 2  | Calculator  | Which does calculation using basic Arithmetic operators with the numbers from 0 to 9. |
+|  1  | [Clock]()  |Shows the real time from the system. |
+ | 2  | [Calculator]()  | Which does calculation using basic Arithmetic operators with the numbers from 0 to 9. |
 |  3  | MouseEvent  | Which shows the exact location of mouse pointer on the screen.|
 |  4  | Month Calender | Shows the Current month's calender with Weekdays and Dates  |
 |  5  | Testimonial Slider | It is a plugin that allows users to display testimonials from customers on their website. |
@@ -21,3 +21,4 @@ small projects using HTML,CSS and Javascript
 |  16  | Weight Converter | It is the converter which converts the Weight from pounds into Kilograms.  |
 |  17  | Progress Step | We use JavaScript to change the class of the active element and CSS to apply a different style to active elements. We also set the width of the progress bar in JavaScript. |
 |  18  | To Do List | A To-Do List with which one can add,delete or marked item in a list.  |
+|  19  | Dad Jokes Generator | It generates random jokes by clicking on button.  |
