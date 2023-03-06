@@ -23,3 +23,4 @@ small projects using HTML,CSS and Javascript
 |  18  | [To_Do_List](https://jalpa95.github.io/30-days-of-front-end-development/18-ToDoList/) | A To-Do List with which one can add,delete or marked item in a list.  |
 |  19  | [Dad_Jokes_Generator](https://jalpa95.github.io/30-days-of-front-end-development/19-DadJokesGenerator/) | It generates random jokes by clicking on button.  |
 |  20  | [EnglishDictionary](https://jalpa95.github.io/30-days-of-front-end-development/20-EnglishDictionary/) | It shows a synonym of a English word.  |
+|  21  | [RandomQuoteGenerator](https://jalpa95.github.io/30-days-of-front-end-development/21-RandomQuoteGenerator/) | It generates random Quote by clicking on button.  |
