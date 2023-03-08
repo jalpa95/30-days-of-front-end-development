@@ -25,5 +25,4 @@ small projects using HTML,CSS and Javascript
 |  20  | [EnglishDictionary](https://jalpa95.github.io/30-days-of-front-end-development/20-EnglishDictionary/) | It shows a synonym of a English word.  |
 |  21  | [RandomQuoteGenerator](https://jalpa95.github.io/30-days-of-front-end-development/21-RandomQuoteGenerator/) | It generates random Quote by clicking on button.  |
 |  22  | [WaveLabel](https://jalpa95.github.io/30-days-of-front-end-development/22-WaveLabel/) | It generates the wavy effect of names of the input fields in Login form.  |
-|  23  | [ProfileStatistics](https://jalpa95.github.io/30-days-of-front-end-development/23-ProfileStatistics/) | It shows the Profile statistics increment on loading.I have used JavaScript to update the value by increments using setTimeout and defined the target value in an HTML attribute. 
-  |
+|  23  | [ProfileStatistics](https://jalpa95.github.io/30-days-of-front-end-development/23-ProfileStatistics/) | It shows the Profile statistics increment on loading.I have used JavaScript to update the value by increments using setTimeout and defined the target value in an HTML attribute. |
