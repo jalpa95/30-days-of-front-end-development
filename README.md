@@ -26,3 +26,4 @@ small projects using HTML,CSS and Javascript
 |  21  | [RandomQuoteGenerator](https://jalpa95.github.io/30-days-of-front-end-development/21-RandomQuoteGenerator/) | It generates random Quote by clicking on button.  |
 |  22  | [WaveLabel](https://jalpa95.github.io/30-days-of-front-end-development/22-WaveLabel/) | It generates the wavy effect of names of the input fields in Login form.  |
 |  23  | [ProfileStatistics](https://jalpa95.github.io/30-days-of-front-end-development/23-ProfileStatistics/) | It shows the Profile statistics increment on loading.I have used JavaScript to update the value by increments using setTimeout and defined the target value in an HTML attribute. |
+|  24  | [RandomPasswordGenerator](https://jalpa95.github.io/30-days-of-front-end-development/24-RandomPasswordGenerator/) | It generates random Password by clicking on button with Copy function.  |
