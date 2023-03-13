@@ -28,3 +28,4 @@ small projects using HTML,CSS and Javascript
 |  23  | [ProfileStatistics](https://jalpa95.github.io/30-days-of-front-end-development/23-ProfileStatistics/) | It shows the Profile statistics increment on loading.I have used JavaScript to update the value by increments using setTimeout and defined the target value in an HTML attribute. |
 |  24  | [RandomPasswordGenerator](https://jalpa95.github.io/30-days-of-front-end-development/24-RandomPasswordGenerator/) | It generates random Password by clicking on button with Copy function.  |
 |  25  | [RGBColorSlider](https://jalpa95.github.io/30-days-of-front-end-development/25-RGBColorSlider/) | It generates the colourful background of window with selected amount of RGB colours through input Range.  |
+|  26  | [AgeCalculator](https://jalpa95.github.io/30-days-of-front-end-development/26-AgeCalculator/) | It takes a Date as an input and Calculates the Age(in Years,Months and Days) format counting from Current day.  |
