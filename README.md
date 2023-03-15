@@ -29,3 +29,4 @@ small projects using HTML,CSS and Javascript
 |  24  | [RandomPasswordGenerator](https://jalpa95.github.io/30-days-of-front-end-development/24-RandomPasswordGenerator/) | It generates random Password by clicking on button with Copy function.  |
 |  25  | [RGBColorSlider](https://jalpa95.github.io/30-days-of-front-end-development/25-RGBColorSlider/) | It generates the colourful background of window with selected amount of RGB colours through input Range.  |
 |  26  | [AgeCalculator](https://jalpa95.github.io/30-days-of-front-end-development/26-AgeCalculator/) | It takes a Date as an input and Calculates the Age(in Years,Months and Days) format counting from Current day.  |
+|  27  | [DarkModeToggle](https://jalpa95.github.io/30-days-of-front-end-development/27-DarkModeToggle/) | It generates the background effect according to a selected Toggle Mode.  |
