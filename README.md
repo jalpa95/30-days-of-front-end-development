@@ -31,3 +31,4 @@ small projects using HTML,CSS and Javascript
 |  26  | [AgeCalculator](https://jalpa95.github.io/30-days-of-front-end-development/26-AgeCalculator/) | It takes a Date as an input and Calculates the Age(in Years,Months and Days) format counting from Current day.  |
 |  27  | [DarkModeToggle](https://jalpa95.github.io/30-days-of-front-end-development/27-DarkModeToggle/) | It generates the background effect according to a selected Toggle Mode.  |
 |  28  | [FeedbackUI](https://jalpa95.github.io/30-days-of-front-end-development/28-FeedbackUI/) | It responds with a message from selected feedback options.  |
+|  29  | [CountryGuideWebPage](https://jalpa95.github.io/30-days-of-front-end-development/29-CountryGuideWebPage/) | It takes a Country name as input and responds with a details of Country by fetching from API. |
