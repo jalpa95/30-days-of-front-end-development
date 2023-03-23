@@ -32,3 +32,4 @@ small projects using HTML,CSS and Javascript
 |  27  | [DarkModeToggle](https://jalpa95.github.io/30-days-of-front-end-development/27-DarkModeToggle/) | It generates the background effect according to a selected Toggle Mode.  |
 |  28  | [FeedbackUI](https://jalpa95.github.io/30-days-of-front-end-development/28-FeedbackUI/) | It responds with a message from selected feedback options.  |
 |  29  | [CountryGuideWebPage](https://jalpa95.github.io/30-days-of-front-end-development/29-CountryGuideWebPage/) | It takes a Country name as input and responds with a details of Country by fetching from API. |
+|  30  | [StarRating](https://jalpa95.github.io/30-days-of-front-end-development/30-StarRating/) | A lightweight, Vanilla JavaScript-only 5-star rating system for ranking products, services, or articles on your web page. |
